@@ -70,6 +70,6 @@ class Person
 
 end
 
-
+person1 = Person.new("Jack")
 
 binding.pry
