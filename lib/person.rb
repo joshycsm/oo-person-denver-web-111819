@@ -71,5 +71,7 @@ class Person
 end
 
 person1 = Person.new("Jack")
+person2 = Person.new("Peter")
+
 
 binding.pry
