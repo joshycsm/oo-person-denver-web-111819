@@ -1,4 +1,5 @@
 # your code goes here
+require 'pry'
 class Person
 
   attr_accessor :bank_account
@@ -68,3 +69,5 @@ class Person
   end
 
 end
+
+binding.pry
